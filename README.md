@@ -1,4 +1,4 @@
-<h1 align="center">Python Preparation Filter/h1>
+<h1 align="center">Python Preparation Filter</h1>
 
 <p align="center"><img src="https://www.aidoos.com/static-v4.1.0/aidoos_kb/Python.png" width="200" alt="logo"></p>
 
