@@ -9,7 +9,7 @@
 
 1.Clone the repository, preferably via SSH security keys or there is also the HTTPS method.
 
-<p align="center"><img src="https://happygitwithr.com/img/github-https-or-ssh-url-annotated.png" width="200" alt="ejemplo"></p>
+<p align="center"><img src="https://happygitwithr.com/img/github-https-or-ssh-url-annotated.png" width="600" alt="ejemplo"></p>
 
 2.Execute the command ```python main.py``` in the command terminal inside the project.
 
