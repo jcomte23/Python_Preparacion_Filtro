@@ -1,6 +1,10 @@
-base = int(input("Ingrese la base del triangulo: "))
-altura = int(input("Ingrese la altura del triangulo: "))
+print("-"*20)
+print("Area de un triangulo")
+print("-"*20)
+print()
 
-area = int (base * altura / 2)
+base=float(input("Ingrese el valor de la BASE => "))
+altura=float(input("Ingrese el valor de la ALTURA => "))
+area=(base*altura)/2
 
-print("El área del triangulo es: ", area)
+print(f"El area del triangulo es {area}")
